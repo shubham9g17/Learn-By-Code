@@ -7,4 +7,7 @@
 ## Input and Output
 ## Flow Control
 ## String
-## -----(very soon)
+## List
+## Tuple
+## Set
+## Dictionary
