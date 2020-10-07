@@ -1,2 +1,0 @@
-# Numpy
- Numpy Tutorials
