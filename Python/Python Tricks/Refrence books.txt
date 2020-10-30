@@ -1,4 +1,0 @@
-learn python the hard way
-python cookbook
-buffet of python tricks
-sg
