@@ -10,4 +10,10 @@ sg1 3 4
 sg 
 sg680
 SG!@#
+SG!@#sg0
+sg2 sg1
+sg1 3 4 
+sg 
+sg680
+SG!@#
 SG!@#
